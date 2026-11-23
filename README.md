@@ -1,4 +1,4 @@
-# ❌⭕ Tic-Tac-Toe | Interactive Turn-Based Game
+# Tic-Tac-Toe | Interactive Turn-Based Game
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-GUI-FF4B4B?style=flat-square&logo=streamlit)](https://streamlit.io/)
@@ -7,7 +7,7 @@
 
 ---
 
-## 🎮 Game Engine Logic
+## Game Engine Logic
 
 - **Board State Management:** 3x3 matrix evaluation identifying diagonal, horizontal, and vertical winning combinations.
 - **Turn Alternate Tracking:** Automatic player turn switches between Player X and Player O.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Run the Game
+## Run the Game
 
 ```bash
 git clone https://github.com/mesumali-dev/tic-tac-toe.git
@@ -26,5 +26,5 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+## ‍ Author
 **Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
